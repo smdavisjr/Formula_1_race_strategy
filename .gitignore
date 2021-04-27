@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Formula 1 Race Data.Rproj
+data/archive (1)/status.csv
+data/archive (1)/seasons.csv
+data/archive (1)/results.csv
+data/archive (1)/races.csv
+data/archive (1)/qualifying.csv
+data/archive (1)/pit_stops.csv
+data/archive (1)/lap_times.csv
+data/archive (1)/drivers.csv
+data/archive (1)/driver_standings.csv
+data/archive (1)/constructors.csv
+data/archive (1)/constructor_standings.csv
+data/archive (1)/constructor_results.csv
+data/archive (1)/circuits.csv
