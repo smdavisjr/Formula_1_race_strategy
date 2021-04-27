@@ -16,3 +16,4 @@ data/archive (1)/constructors.csv
 data/archive (1)/constructor_standings.csv
 data/archive (1)/constructor_results.csv
 data/archive (1)/circuits.csv
+*.csv
