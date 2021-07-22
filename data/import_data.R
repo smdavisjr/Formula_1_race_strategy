@@ -1,9 +1,3 @@
-# Packages ----
-library(base)
-library(tidyverse)
-library(data.table)
-library(DT)
-
 # Import Raw Data ----
 rawData <- list(
      circuits = as.data.table(fread('./data/archive/circuits.csv')),
@@ -20,5 +14,3 @@ rawData <- list(
      seasons = as.data.table(fread('./data/archive/seasons.csv')),
      status = as.data.table(fread('./data/archive/status.csv'))
 )
-
-#  ----
